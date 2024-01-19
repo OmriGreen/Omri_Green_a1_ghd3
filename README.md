@@ -11,7 +11,7 @@ Technical Achievement Description<br />
 Design Achievement Description<br />
     I have made a diorama of a wall with a clock and two differently colored hanging lights, where the clock falls off the wall. This was actually inspired by the posters in my apartment, they ALWAYS fell down eventually with the exception of one on the right of my bed. The clock represents the time I spent learning the basics of d3 and reaquanting myself with javascript.
 Screenshots<br />
-![Fallen Clock](Fallen_Clock.png)<br />
+![Fallen Clock](https://github.com/OmriGreen/Omri_Green_a1_ghd3/blob/main/Fallen%20Clock.png?raw=true)<br />
 ![Mid Fall](MidFall.png)<br />
 ![On Wall](OnWall.png)<br />
 
